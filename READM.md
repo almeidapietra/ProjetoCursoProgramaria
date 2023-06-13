@@ -1,5 +1,5 @@
 #Site Ada Lovelace
-[![NPM](https://github.com/almeidapietra/ProjetoCursoProgramaria/blob/main/LICENCE) 
+[![NPM](https://github.com/almeidapietra/ProjetoCursoProgramaria/blob/main/LICENCE)
 
 ##Sobre o Projeto
 
@@ -11,9 +11,10 @@ O Projeto consiste em um site de Web, com links de navegação para sessões do 
 
 ## Layout web
 
-[<img src="./animacao_web_ada%20.gif" alt="gif da tela do projeto">]
+[<img src="https://github.com/almeidapietra/ProjetoCursoProgramaria/blob/main/animacao_web_ada%20.gif" alt="gif da tela do projeto">]
 
 ##Tecnologias utilizadas
+
 -HTML
 -CSS
 -JavaScript
