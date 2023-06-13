@@ -1,9 +1,9 @@
 ## Site Ada Lovelace
-[![NPM](https://github.com/almeidapietra/ProjetoCursoProgramaria/blob/main/LICENCE)
+[! [NPM] (https://github.com/almeidapietra/ProjetoCursoProgramaria/blob/main/LICENCE)
 
 ## Sobre o Projeto
 
-(ada-lovelace-mulheresnatech.pietraalmeida.repl.co)
+(https://ada-lovelace-mulheresnatech.pietraalmeida.repl.co/)
 
 O Site Ada Lovelace é uma aplicação Front-End contruído como projeto foi o desafio final do curso Front-End 1 promovido pela [Programaria](https://https://www.programaria.org/ "Site da Programaria"). 
 
@@ -13,10 +13,12 @@ O Projeto consiste em um site de Web, com links de navegação para sessões do 
 
 [<img src="https://github.com/almeidapietra/ProjetoCursoProgramaria/blob/main/animacao_web_ada%20.gif" alt="gif da tela do projeto">]
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 
 -HTML
+
 -CSS
+
 -JavaScript
 
 ### Agradecimentos
@@ -27,3 +29,4 @@ Pietra Almeida
 
 
 https://www.linkedin.com/in/almeidapietra/
+https://www.instagram.com/aPequenaDev
