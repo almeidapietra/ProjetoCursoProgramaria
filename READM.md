@@ -1,5 +1,5 @@
 ## Site Ada Lovelace
-[![NPM](https://github.com/almeidapietra/ProjetoCursoProgramaria/blob/main/LICENCE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/almeidapietra/ProjetoCursoProgramaria/blob/main/LICENCE)
 
 ## Sobre o Projeto
 
