@@ -5,7 +5,7 @@
 
 https://ada-lovelace-mulheresnatech.pietraalmeida.repl.co/
 
-O Site Ada Lovelace é uma aplicação Front-End contruído como projeto foi o desafio final do curso Front-End 1 promovido pela [Programaria](https://https://www.programaria.org/ "Site da Programaria"). Vem carregado com um punhado de carinho, por ter sido o meu primeiro site.🥲🤩
+O Site Ada Lovelace é uma aplicação Front-End construído como projeto foi o desafio final do curso Front-End 1 promovido pela [Programaria](https://https://www.programaria.org/ "Site da Programaria"). Vem carregado com um punhado de carinho, por ter sido o meu primeiro site.🥲🤩
 
 O Projeto consiste em um site de Web, com links de navegação para sessões do site, bem como links de direcionamento para outro site, também apresenta formulário, e respostas ao seu preenchimento correto ou inadequado.
 
