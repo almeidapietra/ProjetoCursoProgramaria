@@ -22,7 +22,7 @@ O Projeto consiste em um site de Web, com links de navegação para sessões do 
 -JavaScript
 
 ### Agradecimentos
-Agradeço à toda equipe da Programaria, por ter me dado a oportunidade de estudar através de uma bolsa, e por todo conhecimento e acholhemento passado durante o curso. 
+Agradeço à toda equipe da Programaria, por ter me dado a oportunidade de estudar através de uma bolsa, e por todo acholhimento e conhecimento passado durante o curso. 
 Vocês são demais!😍
 
 Pietra Almeida
